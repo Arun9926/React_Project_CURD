@@ -1,0 +1,86 @@
+{
+  "movies": [
+    {
+      "id": "6990",
+      "name": "bhubhulaiya 3",
+      "price": "270 rs",
+      "theater": "Jyoti complex",
+      "date": "11/12/2024",
+      "time": "3 pm"
+    },
+    {
+      "id": "51ba",
+      "name": "KGF",
+      "price": "300 rs",
+      "theater": "Inox",
+      "date": "5/12/2024",
+      "time": "12 pm"
+    },
+    {
+      "id": "a351",
+      "name": "hangama",
+      "price": "150 rs",
+      "theater": "Rangmahal",
+      "date": "6/12/2024",
+      "time": "6 pm"
+    },
+    {
+      "id": "1eca",
+      "name": "pushpa 2",
+      "price": "500 rs",
+      "theater": "DB mall ",
+      "date": "7/12/2024",
+      "time": "5 pm"
+    },
+    {
+      "id": "a443",
+      "name": "Dil hai hindustani",
+      "price": "400 rs",
+      "theater": "Bharat Talkies",
+      "date": "10/12/2024",
+      "time": "3:15 pm"
+    },
+    {
+      "id": "8498",
+      "name": "arjun",
+      "price": "440 rs",
+      "author_name": "Ashima Thearter",
+      "publish_year": "10/12/2024",
+      "theater": "Ashima mall",
+      "date": "12/12/2024",
+      "time": "9 am"
+    },
+    {
+      "id": "9d1f",
+      "name": "12th fail",
+      "price": "340 rs",
+      "theater": "Ashima mall",
+      "date": "10/12/2024",
+      "time": "9:15 am"
+    },
+    {
+      "id": "468d",
+      "name": "arjun",
+      "price": "600 rs",
+      "theater": "bharat",
+      "date": "15/12/2024",
+      "time": "10 am"
+    },
+    {
+      "id": "2a9f",
+      "name": "pushpa 2",
+      "price": "650 rs",
+      "theater": "Alka theater",
+      "date": "8/12/2024",
+      "time": "11 pm"
+    },
+    {
+      "id": "27dc",
+      "name": "Manikarnika",
+      "price": "540 rs",
+      "theater": "Shyam Theater",
+      "date": "9/12/2024",
+      "time": "12:30 pm"
+    }
+  ]
+}
